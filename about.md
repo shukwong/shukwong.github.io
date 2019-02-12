@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### About Me
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an i data scientist with 15+ years of broad experience in the fields of bioinformatics, genomics and computational biology. I enjoy solving complex scientific questions by implementing novel and creative solutions.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wendy.wong@gmail.com](mailto:wendy.wong@gmail.com)
